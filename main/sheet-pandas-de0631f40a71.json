@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sheet-pandas",
+  "private_key_id": "de0631f40a712c694556ca56dd1b969294381de4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRmMNN7xw1lvzT\nE05JXgFyWC/Hq18lxhwAX66bHQ7vmiqsoSs1l5Ng2bHJWaxeDnvysR9ABBfQdzlv\nGOMfUZdWmIQ2vIYj8N1oCoZQMN0VNKH+0Sw7KQNJzEkNX5Cr4ZU3GWjRNZpU8KI3\nm+YnVm2vo0GvkQJNhvFLaB/hOPgEw7pRpXQ0g20gTnsjiEsm+lzKUpffjqA/E3Z3\nQpS/iNSLEA7fkzeLUqvw3sRRR51pn9GLxYKWXXp2awLpJpNxAVq9XD47Qcblxfsj\nvJOxYoS8roxnueCSHdBAWbPM0pGZIEuHgBiHC3/BZqkIqbf8+S5rkCaVePRLG0CZ\n3uQixfPNAgMBAAECggEACVCJYCVFu/z0oElaJxHzTD4tklvZmrhNps14RXaqs7P8\nem5WLhfMJzROLjhFMYBCOEDSI72PS3gxLbUdJK4K3VClFr5hY4+/jm4r8RnrLvXe\nzkdSCdfiHLjLzKX6QrDMI8oFnWrNPJVnf2DDLO2X11Z9t45ypASXz8/xyC4lmeJV\n/7FYg/ffNGC1HhOuP+7Jm0lbBniWfRDncof8uqCkNzVvJae+TCF0qJ3gmuiERRnN\nuGC+xJwOsGPcOBqyxDXZbzbgTogIPf5VhL7bRv7L3Pc+8xsj40ZxjdD9H5XHTpWi\nJ3r+FvYgfeuWXEZ0Mw8/W46opkvU0NmPtWcaDwXCGQKBgQDK6z/wbhQ1S77SXRWH\nxC5KMKlDiwvechXyuC44xnAnSqsIQnaRy6KCxffcsSoQckv6LdhVXJ5jdPkt1xKE\nDCzpcjrT2aSDlkYduRsDOU6MxUS7CaAmowCu6HMXhkZqpOiXm4xpFYD1wK/1h74T\nbu7VkH+VWk1KFVJmWxx9y4+YZQKBgQC3rtngztoepN16Svikmxr8yGdKqb2SysiT\npAEgHThQc+76u4Z+dz4txeUa9SVudek65S/T3HIQAKH0VZkZADMWqiH6os2mWD3I\nzf64yp+lnTGei8gP2PXJ+BVSxdQRzkoBbXY1Ej9NsKl+3WtJHrhWFupkwNesTjcW\nuZ6D8jQTSQKBgQCefBKaRD+ASMKnJpCUU0McKtloqYcBm/VMd1GSglpCNe1TLCXT\nRUqN/PTT54NFCSASLBBUy1vhrhCYHuyVObUyN0d/AvOc2pe0y0gvwmh5RfGia6gr\nxQ/ZjC+n5fXFgTswfgqyYFsyleZYTEbGgtQC9TLQgZDwFasfynV8QqrKiQKBgGe0\nP2zOPJW6jRTDiTgeHhGD79VWmiJrfOzmVoBUHvxFSDKld1ylZCShqyUaLST9S02m\nIeeieX+Ra96wCTz1QOLV8VM5YZQ+E7vwmZSpSZNOebpCvxQ7cSGzgA54hK/84QmH\nTIrQH490Y22uAymIP5jTXUi/G8U7b5zT9awXLdGJAoGAO4U3gwVUkcKD8JzfJXwE\nA0FnuNveD0feDjXLR4wIvh+aZW/JYl+OZAcfrHR9fnHiiqkn2bPQJASUmiSjfO0L\n+IdTvOoC63utSePgtP3ti3lf5mjVOF0MppM8T7GpN06umXZ2S0M0w52W4VRzPogJ\noC4UFbV/wDlqM7qKTOJB7Ck=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pandas-account@sheet-pandas.iam.gserviceaccount.com",
+  "client_id": "116422644794485902394",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pandas-account%40sheet-pandas.iam.gserviceaccount.com"
+}
